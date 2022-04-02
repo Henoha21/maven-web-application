@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.146.51.239:8081/repository/henryrelease/</url>
+	      <url>http://54.146.51.239:8081/repository/henrysnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
