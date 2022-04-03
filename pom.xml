@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.146.51.239:8081/repository/henryrelease/</url>
+	      <url>http://18.233.148.239:8081/repository/mavenhenryrelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.146.51.239:8081/repository/henrysnapshot/</url>
+	      <url>http://18.233.148.239:8081/repository/mavenhenrysnapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
